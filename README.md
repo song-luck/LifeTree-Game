@@ -13,7 +13,8 @@
 ## 游玩:
 ### 网页版:
 [点击进入LifeTree.html](https://song-luck.github.io/LifeTree-Game/LifeTree.html)  
-> 注意：网页版资源较大，加载时间可能很长，如果要长期游玩建议下载桌面版。
+> 注意：网页版资源较大，加载时间可能很长，如果要长期游玩建议下载桌面版。  
+
 ### 桌面版：
 [点击进入桌面版下载地址](https://github.com/song-luck/LifeTree-Game/releases)  
 
